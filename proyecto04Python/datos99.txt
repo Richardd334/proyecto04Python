@@ -1,0 +1,41 @@
+Nombres:jbklsjfn
+Apellidos:bkjblk
+Edad:8768 años
+Estatura87687 m
+Telefono68768
+
+Nombres:hjkasdhf
+Apellidos:lkjadsfh
+Edad:87 años
+Estatura:7868 m
+Telefono:8768768 
+Genero:
+
+Nombres:gf
+Apellidos:gt
+Edad:68 años
+Estatura:86 m
+Telefono:8686 
+Genero:
+
+Nombres:juan
+Apellidos:pancho
+Edad:43 años
+Estatura:896 m
+Telefono:987867768 
+Genero:
+
+Nombres:probando 2
+Apellidos:ahora es personal
+Edad:978 años
+Estatura:3245 m
+Telefono:98723459874 
+Genero:
+
+Nombres:julian
+Apellidos:anchoa
+Edad:098 años
+Estatura:0980970 m
+Telefono:9709709 
+Genero:hombre
+
